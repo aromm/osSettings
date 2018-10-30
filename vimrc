@@ -24,4 +24,5 @@
 :set smartcase
 :nnoremap H gT
 :nnoremap L gt
+:nnoremap <CR> :nohlsearch<CR><CR>
 
